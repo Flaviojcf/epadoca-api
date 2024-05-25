@@ -15,7 +15,7 @@
 
 
   <p align="center">
-    This project is a solution to the epadoca internship challenge
+    This project is a solution to the epadoca challenge
     <br />
     <a href="https:/github.com/flaviojcf/epadoca-api" target="_blank"><strong>Explore the code »</strong></a>
     <br />
