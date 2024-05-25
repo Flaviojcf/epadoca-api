@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Flaviojcf/epadoca-api">
-    <img src="./epadoca-api.png" alt="epadoca-api">
+    <img src="/epadoca-api/epadoca-api.png" alt="epadoca-api">
   </a>
 
 
